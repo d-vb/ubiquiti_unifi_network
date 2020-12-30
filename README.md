@@ -10,13 +10,13 @@ Vagrantfile for Ubiquiti UniFi Network
   vagrant up
   ```
 
-* Now you have to wait some minutes for your installation being completed.
+* Now you have to wait some minutes for your installation to be completed.
 
 ## Setup Ubiquiti UniFi Network
 
-* Use the URL you get provided to configure Ubiquiti UniFi Network: https://$IP-ADDRESS:8443
+* Use the URL you got provided to configure Ubiquiti UniFi Network: https://$IP-ADDRESS:8443
 
-* Because self signed certificates are used you might need to accept some browser warnings.
+* Because self signed certificates are used, you might need to accept some browser warnings.
 
 * `Name Your Controller`, agree the `end user license agreement` and select `Next`.
 
